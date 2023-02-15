@@ -4,6 +4,7 @@
 
 - [arXivTimes](https://github.com/arXivTimes/arXivTimes)のマネ
 - 読んだ論文のまとめ
+- [投稿する](https://github.com/Ryuta339/ThesesSummary/issues/new?template=SummaryTemplate.md)
 
 ## 内容
 
